@@ -1,4 +1,9 @@
-# MDAD PoSH GUI for Tagging MDE Devices 
+# Customer Offerings: Security: Microsoft Defender - Advanced Dashboards with Power BI
+
+https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-security-microsoft-defender-advanced/ba-p/3719775
+
+MDAD PoSH GUI for Tagging MDE Devices 
+
 Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
 ![alt text](/MDAD-Tagging.jpg)
 ## Get started
@@ -21,4 +26,6 @@ Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
     * Specify device tag in text box and **Apply tag** or **Remove tag**.
 5. Verify actions result with **Logs** text box.
 
+
+# forked from microsoft/mde-api-gui
 
