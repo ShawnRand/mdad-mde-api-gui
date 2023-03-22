@@ -1,6 +1,6 @@
 # GUI for MDE API sample app
 Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
-![image](https://user-images.githubusercontent.com/25099900/195406810-55511f50-d1c7-4e80-94e1-945cfca2a219.png)
+![alt text](/MDAD-Tagging.jpg)
 ## Get started
 1. Create Azure AD application as described here: https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide
 2. Grant the following API permissions to the application:
