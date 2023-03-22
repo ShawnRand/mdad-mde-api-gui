@@ -1,4 +1,4 @@
-# GUI for MDE API sample app
+# MDAD PoSH GUI for Tagging MDE Devices 
 Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
 ![alt text](/MDAD-Tagging.jpg)
 ## Get started
