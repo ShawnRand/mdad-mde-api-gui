@@ -27,5 +27,5 @@ Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
 
 # forked from microsoft/mde-api-gui
 
-[click here](www.google.com)
+
 
