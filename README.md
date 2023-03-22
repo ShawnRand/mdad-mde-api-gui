@@ -2,12 +2,11 @@
 Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
 ![alt text](/MDAD-Tagging.jpg)
 ## Get started
-1. Create Azure AD application as described here: https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide
+1. Utlize your existing MDAD App Reg
 2. Grant the following API permissions to the application:
 
 | Permission | Description |
 |-------------------------|----------------------|
-| AdvancedQuery.Read.All	| Run advanced queries |
 | Machine.ReadWrite.All |	Read and write all machine information (used for tagging) |
 
 3. Create application secret.
