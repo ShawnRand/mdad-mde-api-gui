@@ -21,9 +21,7 @@ Simple PowerShell GUI for Microsoft Defender for Endpoint API machine actions.
     * Devices list separated with commas
 3. Confirm selection in PowerShell forms pop-up.
 4. Choose action that you want to perform on **Selected Devices**, the following actions are currently available:
-    * Specify device tag in text box and **Apply tag**.
-    * Run **AV Scan**.
-    * **Isolate**/Release device.
+    * Specify device tag in text box and **Apply tag** or **Remove tag**.
 5. Verify actions result with **Logs** text box.
 
 ## Contributing
